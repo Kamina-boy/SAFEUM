@@ -55,7 +55,7 @@ def work():
             success += 1
             b = accounts.append(username + ':hugg')
             print(b)
-            with open('SafeUM_XD.txt', 'a') as f:
+            with open('ACCOUNT.txt', 'a') as f:
                 f.write(username + ":hugg \n")
 
         else:
